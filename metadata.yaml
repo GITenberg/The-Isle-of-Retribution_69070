@@ -1,0 +1,37 @@
+_repo: The-Isle-of-Retribution_69070
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Duer, Douglas
+    birthdate: 1887
+    deathdate: 1964
+    gutenberg_agent_id: '8878'
+    url: http://www.gutenberg.org/2009/agents/8878
+creator:
+  author:
+    agent_name: Marshall, Edison
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '3967'
+    url: http://www.gutenberg.org/2009/agents/3967
+    wikipedia: https://en.wikipedia.org/wiki/Edison_Marshall
+description: ''
+gutenberg_issued: '2022-09-30'
+identifiers:
+  gutenberg: '69070'
+language: en
+pgterms:marc904: https://archive.org/details/isleofretributio00mars
+pgterms:marc905: 20190825103235marshall
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net from page images generously made available by the
+  Internet Archive
+publication_note: United States :Little, Brown and Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Isle of Retribution
+url: http://www.gutenberg.org/ebooks/69070
